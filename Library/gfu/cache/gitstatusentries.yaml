@@ -1,0 +1,1035 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-08T23:17:15.376-03:00
+  initializedAtString: 2019-10-08T16:16:14.612-03:00
+  entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Medieval_weapons_free.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free.meta
+    projectPath: Assets\Medieval_weapons_free.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\cape_hill_4k.hdr
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\cape_hill_4k.hdr
+    projectPath: Assets\Medieval_weapons_free\cape_hill_4k.hdr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\cape_hill_4k.hdr.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\cape_hill_4k.hdr.meta
+    projectPath: Assets\Medieval_weapons_free\cape_hill_4k.hdr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Cubemap.mat
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Cubemap.mat
+    projectPath: Assets\Medieval_weapons_free\Cubemap.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Cubemap.mat.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Cubemap.mat.meta
+    projectPath: Assets\Medieval_weapons_free\Cubemap.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials.meta
+    projectPath: Assets\Medieval_weapons_free\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials\Base.mat
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials\Base.mat
+    projectPath: Assets\Medieval_weapons_free\Materials\Base.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials\Base.mat.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials\Base.mat.meta
+    projectPath: Assets\Medieval_weapons_free\Materials\Base.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials\English Shield.mat
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials\English
+      Shield.mat
+    projectPath: Assets\Medieval_weapons_free\Materials\English Shield.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials\English Shield.mat.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials\English
+      Shield.mat.meta
+    projectPath: Assets\Medieval_weapons_free\Materials\English Shield.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials\Viking sword.mat
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials\Viking
+      sword.mat
+    projectPath: Assets\Medieval_weapons_free\Materials\Viking sword.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials\Viking sword.mat.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials\Viking
+      sword.mat.meta
+    projectPath: Assets\Medieval_weapons_free\Materials\Viking sword.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials\Yellow_Red.mat
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials\Yellow_Red.mat
+    projectPath: Assets\Medieval_weapons_free\Materials\Yellow_Red.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Materials\Yellow_Red.mat.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Materials\Yellow_Red.mat.meta
+    projectPath: Assets\Medieval_weapons_free\Materials\Yellow_Red.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Medieval_weapons_free.unity
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Medieval_weapons_free.unity
+    projectPath: Assets\Medieval_weapons_free\Medieval_weapons_free.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Medieval_weapons_free.unity.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Medieval_weapons_free.unity.meta
+    projectPath: Assets\Medieval_weapons_free\Medieval_weapons_free.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Models.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Models.meta
+    projectPath: Assets\Medieval_weapons_free\Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Models\English Shield.fbx
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Models\English
+      Shield.fbx
+    projectPath: Assets\Medieval_weapons_free\Models\English Shield.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Models\English Shield.fbx.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Models\English
+      Shield.fbx.meta
+    projectPath: Assets\Medieval_weapons_free\Models\English Shield.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Models\Viking sword.fbx
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Models\Viking
+      sword.fbx
+    projectPath: Assets\Medieval_weapons_free\Models\Viking sword.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Models\Viking sword.fbx.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Models\Viking
+      sword.fbx.meta
+    projectPath: Assets\Medieval_weapons_free\Models\Viking sword.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Models\Yellow Red.fbx
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Models\Yellow
+      Red.fbx
+    projectPath: Assets\Medieval_weapons_free\Models\Yellow Red.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Models\Yellow Red.fbx.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Models\Yellow
+      Red.fbx.meta
+    projectPath: Assets\Medieval_weapons_free\Models\Yellow Red.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\New Post-Processing Profile.asset
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\New
+      Post-Processing Profile.asset
+    projectPath: Assets\Medieval_weapons_free\New Post-Processing Profile.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\New Post-Processing Profile.asset.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\New
+      Post-Processing Profile.asset.meta
+    projectPath: Assets\Medieval_weapons_free\New Post-Processing Profile.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Prefabs.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Prefabs.meta
+    projectPath: Assets\Medieval_weapons_free\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Prefabs\English Shield.prefab
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Prefabs\English
+      Shield.prefab
+    projectPath: Assets\Medieval_weapons_free\Prefabs\English Shield.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Prefabs\English Shield.prefab.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Prefabs\English
+      Shield.prefab.meta
+    projectPath: Assets\Medieval_weapons_free\Prefabs\English Shield.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Prefabs\Viking sword.prefab
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Prefabs\Viking
+      sword.prefab
+    projectPath: Assets\Medieval_weapons_free\Prefabs\Viking sword.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Prefabs\Viking sword.prefab.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Prefabs\Viking
+      sword.prefab.meta
+    projectPath: Assets\Medieval_weapons_free\Prefabs\Viking sword.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Prefabs\Yellow Red.prefab
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Prefabs\Yellow
+      Red.prefab
+    projectPath: Assets\Medieval_weapons_free\Prefabs\Yellow Red.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Prefabs\Yellow Red.prefab.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Prefabs\Yellow
+      Red.prefab.meta
+    projectPath: Assets\Medieval_weapons_free\Prefabs\Yellow Red.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture.meta
+    projectPath: Assets\Medieval_weapons_free\Texture.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_AlbedoTransparency.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield\English Shield_AlbedoTransparency.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_AlbedoTransparency.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_AlbedoTransparency.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield\English Shield_AlbedoTransparency.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_AlbedoTransparency.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_AO.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield\English Shield_AO.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_AO.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_AO.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield\English Shield_AO.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_AO.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_MetallicSmoothness.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield\English Shield_MetallicSmoothness.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_MetallicSmoothness.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_MetallicSmoothness.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield\English Shield_MetallicSmoothness.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_MetallicSmoothness.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_Normal.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield\English Shield_Normal.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_Normal.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_Normal.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\English
+      Shield\English Shield_Normal.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\English Shield\English Shield_Normal.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_AlbedoTransparency.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword\Viking sword_AlbedoTransparency.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_AlbedoTransparency.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_AlbedoTransparency.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword\Viking sword_AlbedoTransparency.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_AlbedoTransparency.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_AO.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword\Viking sword_AO.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_AO.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_AO.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword\Viking sword_AO.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_AO.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_MetallicSmoothness.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword\Viking sword_MetallicSmoothness.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_MetallicSmoothness.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_MetallicSmoothness.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword\Viking sword_MetallicSmoothness.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_MetallicSmoothness.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_Normal.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword\Viking sword_Normal.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_Normal.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_Normal.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Viking
+      sword\Viking sword_Normal.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Viking sword\Viking sword_Normal.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_AlbedoTransparency.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red\Yellow Red_AlbedoTransparency.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_AlbedoTransparency.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_AlbedoTransparency.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red\Yellow Red_AlbedoTransparency.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_AlbedoTransparency.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_AO.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red\Yellow Red_AO.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_AO.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_AO.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red\Yellow Red_AO.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_AO.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_MetallicSmoothness.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red\Yellow Red_MetallicSmoothness.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_MetallicSmoothness.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_MetallicSmoothness.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red\Yellow Red_MetallicSmoothness.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_MetallicSmoothness.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_Normal.tga
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red\Yellow Red_Normal.tga
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_Normal.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_Normal.tga.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Medieval_weapons_free\Texture\Yellow
+      Red\Yellow Red_Normal.tga.meta
+    projectPath: Assets\Medieval_weapons_free\Texture\Yellow Red\Yellow Red_Normal.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat
+    projectPath: Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat.meta
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat.meta
+    projectPath: Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\assetDatabase3
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\03\03cbcccd0001e9b4ea6cc1444803ce78.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\03\03cbcccd0001e9b4ea6cc1444803ce78.info
+    projectPath: Library\metadata\03\03cbcccd0001e9b4ea6cc1444803ce78.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\10\103abdfbf2df31e4dbe8687ef0277ac3
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\10\103abdfbf2df31e4dbe8687ef0277ac3
+    projectPath: Library\metadata\10\103abdfbf2df31e4dbe8687ef0277ac3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\10\103abdfbf2df31e4dbe8687ef0277ac3.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\10\103abdfbf2df31e4dbe8687ef0277ac3.info
+    projectPath: Library\metadata\10\103abdfbf2df31e4dbe8687ef0277ac3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\11\119737dea2c9db34282e1bd5f023b162
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\11\119737dea2c9db34282e1bd5f023b162
+    projectPath: Library\metadata\11\119737dea2c9db34282e1bd5f023b162
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\11\119737dea2c9db34282e1bd5f023b162.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\11\119737dea2c9db34282e1bd5f023b162.info
+    projectPath: Library\metadata\11\119737dea2c9db34282e1bd5f023b162.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\14\148fb41c629d35f47a47aaf5f4cd0caf
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\14\148fb41c629d35f47a47aaf5f4cd0caf
+    projectPath: Library\metadata\14\148fb41c629d35f47a47aaf5f4cd0caf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\14\148fb41c629d35f47a47aaf5f4cd0caf.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\14\148fb41c629d35f47a47aaf5f4cd0caf.info
+    projectPath: Library\metadata\14\148fb41c629d35f47a47aaf5f4cd0caf.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1c\1ca04e91a24bbd744b14db940924062b
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\1c\1ca04e91a24bbd744b14db940924062b
+    projectPath: Library\metadata\1c\1ca04e91a24bbd744b14db940924062b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1c\1ca04e91a24bbd744b14db940924062b.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\1c\1ca04e91a24bbd744b14db940924062b.info
+    projectPath: Library\metadata\1c\1ca04e91a24bbd744b14db940924062b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\28\28e746822505d384fbfa596136e874f6
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\28\28e746822505d384fbfa596136e874f6
+    projectPath: Library\metadata\28\28e746822505d384fbfa596136e874f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\28\28e746822505d384fbfa596136e874f6.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\28\28e746822505d384fbfa596136e874f6.info
+    projectPath: Library\metadata\28\28e746822505d384fbfa596136e874f6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\2a\2a8ac02971ef7d54199dd473e6b7abf9
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\2a\2a8ac02971ef7d54199dd473e6b7abf9
+    projectPath: Library\metadata\2a\2a8ac02971ef7d54199dd473e6b7abf9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\2a\2a8ac02971ef7d54199dd473e6b7abf9.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\2a\2a8ac02971ef7d54199dd473e6b7abf9.info
+    projectPath: Library\metadata\2a\2a8ac02971ef7d54199dd473e6b7abf9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\2e\2e5765c1fdd6ca24394fb22408d015c3
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\2e\2e5765c1fdd6ca24394fb22408d015c3
+    projectPath: Library\metadata\2e\2e5765c1fdd6ca24394fb22408d015c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\2e\2e5765c1fdd6ca24394fb22408d015c3.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\2e\2e5765c1fdd6ca24394fb22408d015c3.info
+    projectPath: Library\metadata\2e\2e5765c1fdd6ca24394fb22408d015c3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3b\3bf2ba4a8ca4e8b4dad0afe3a047a1e4
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\3b\3bf2ba4a8ca4e8b4dad0afe3a047a1e4
+    projectPath: Library\metadata\3b\3bf2ba4a8ca4e8b4dad0afe3a047a1e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3b\3bf2ba4a8ca4e8b4dad0afe3a047a1e4.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\3b\3bf2ba4a8ca4e8b4dad0afe3a047a1e4.info
+    projectPath: Library\metadata\3b\3bf2ba4a8ca4e8b4dad0afe3a047a1e4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3d\3d4d0b94bb92bd94395911d8353f285d
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\3d\3d4d0b94bb92bd94395911d8353f285d
+    projectPath: Library\metadata\3d\3d4d0b94bb92bd94395911d8353f285d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3d\3d4d0b94bb92bd94395911d8353f285d.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\3d\3d4d0b94bb92bd94395911d8353f285d.info
+    projectPath: Library\metadata\3d\3d4d0b94bb92bd94395911d8353f285d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\47\47b65d2e260e3f641b0fa445c1105985
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\47\47b65d2e260e3f641b0fa445c1105985
+    projectPath: Library\metadata\47\47b65d2e260e3f641b0fa445c1105985
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\47\47b65d2e260e3f641b0fa445c1105985.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\47\47b65d2e260e3f641b0fa445c1105985.info
+    projectPath: Library\metadata\47\47b65d2e260e3f641b0fa445c1105985.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48bbb2618617e6c49b651a5e82517845
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\48\48bbb2618617e6c49b651a5e82517845
+    projectPath: Library\metadata\48\48bbb2618617e6c49b651a5e82517845
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48bbb2618617e6c49b651a5e82517845.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\48\48bbb2618617e6c49b651a5e82517845.info
+    projectPath: Library\metadata\48\48bbb2618617e6c49b651a5e82517845.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4f\4f42cd0380e48e1409e78e6503127958
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\4f\4f42cd0380e48e1409e78e6503127958
+    projectPath: Library\metadata\4f\4f42cd0380e48e1409e78e6503127958
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4f\4f42cd0380e48e1409e78e6503127958.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\4f\4f42cd0380e48e1409e78e6503127958.info
+    projectPath: Library\metadata\4f\4f42cd0380e48e1409e78e6503127958.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\50\50f01c012ae8ef74fba128bda5f35715
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\50\50f01c012ae8ef74fba128bda5f35715
+    projectPath: Library\metadata\50\50f01c012ae8ef74fba128bda5f35715
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\50\50f01c012ae8ef74fba128bda5f35715.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\50\50f01c012ae8ef74fba128bda5f35715.info
+    projectPath: Library\metadata\50\50f01c012ae8ef74fba128bda5f35715.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\54\54b20ba5cb5bc78448aee611ccf411c9
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\54\54b20ba5cb5bc78448aee611ccf411c9
+    projectPath: Library\metadata\54\54b20ba5cb5bc78448aee611ccf411c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\54\54b20ba5cb5bc78448aee611ccf411c9.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\54\54b20ba5cb5bc78448aee611ccf411c9.info
+    projectPath: Library\metadata\54\54b20ba5cb5bc78448aee611ccf411c9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5ad89c3df4299f3488d8af26617ce6f2
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\5a\5ad89c3df4299f3488d8af26617ce6f2
+    projectPath: Library\metadata\5a\5ad89c3df4299f3488d8af26617ce6f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5ad89c3df4299f3488d8af26617ce6f2.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\5a\5ad89c3df4299f3488d8af26617ce6f2.info
+    projectPath: Library\metadata\5a\5ad89c3df4299f3488d8af26617ce6f2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\62\626e95e0e4ab63f499746d57afa4773f
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\62\626e95e0e4ab63f499746d57afa4773f
+    projectPath: Library\metadata\62\626e95e0e4ab63f499746d57afa4773f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\62\626e95e0e4ab63f499746d57afa4773f.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\62\626e95e0e4ab63f499746d57afa4773f.info
+    projectPath: Library\metadata\62\626e95e0e4ab63f499746d57afa4773f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\689da30ed7d618345bb88699a87c175f
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\68\689da30ed7d618345bb88699a87c175f
+    projectPath: Library\metadata\68\689da30ed7d618345bb88699a87c175f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\689da30ed7d618345bb88699a87c175f.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\68\689da30ed7d618345bb88699a87c175f.info
+    projectPath: Library\metadata\68\689da30ed7d618345bb88699a87c175f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6b\6b67ff9cb36ea9c448477fd1e4c93696
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\6b\6b67ff9cb36ea9c448477fd1e4c93696
+    projectPath: Library\metadata\6b\6b67ff9cb36ea9c448477fd1e4c93696
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6b\6b67ff9cb36ea9c448477fd1e4c93696.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\6b\6b67ff9cb36ea9c448477fd1e4c93696.info
+    projectPath: Library\metadata\6b\6b67ff9cb36ea9c448477fd1e4c93696.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6d\6d0723ba3385f8746955a0e4b7af4a7b
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\6d\6d0723ba3385f8746955a0e4b7af4a7b
+    projectPath: Library\metadata\6d\6d0723ba3385f8746955a0e4b7af4a7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6d\6d0723ba3385f8746955a0e4b7af4a7b.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\6d\6d0723ba3385f8746955a0e4b7af4a7b.info
+    projectPath: Library\metadata\6d\6d0723ba3385f8746955a0e4b7af4a7b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6ee86840ae9c5c34fbbc88fc4e017192
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\6e\6ee86840ae9c5c34fbbc88fc4e017192
+    projectPath: Library\metadata\6e\6ee86840ae9c5c34fbbc88fc4e017192
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6ee86840ae9c5c34fbbc88fc4e017192.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\6e\6ee86840ae9c5c34fbbc88fc4e017192.info
+    projectPath: Library\metadata\6e\6ee86840ae9c5c34fbbc88fc4e017192.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\75\75595161360a92f458a5228d8deeee8b
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\75\75595161360a92f458a5228d8deeee8b
+    projectPath: Library\metadata\75\75595161360a92f458a5228d8deeee8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\75\75595161360a92f458a5228d8deeee8b.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\75\75595161360a92f458a5228d8deeee8b.info
+    projectPath: Library\metadata\75\75595161360a92f458a5228d8deeee8b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\80\805bdf22faa8cb44689c9a17fac60626
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\80\805bdf22faa8cb44689c9a17fac60626
+    projectPath: Library\metadata\80\805bdf22faa8cb44689c9a17fac60626
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\80\805bdf22faa8cb44689c9a17fac60626.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\80\805bdf22faa8cb44689c9a17fac60626.info
+    projectPath: Library\metadata\80\805bdf22faa8cb44689c9a17fac60626.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\92\926681c3362a0fa4ba77b2ec6d0485dc
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\92\926681c3362a0fa4ba77b2ec6d0485dc
+    projectPath: Library\metadata\92\926681c3362a0fa4ba77b2ec6d0485dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\92\926681c3362a0fa4ba77b2ec6d0485dc.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\92\926681c3362a0fa4ba77b2ec6d0485dc.info
+    projectPath: Library\metadata\92\926681c3362a0fa4ba77b2ec6d0485dc.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9a\9a2cfc855dc58bb4baef6eeae381017c
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\9a\9a2cfc855dc58bb4baef6eeae381017c
+    projectPath: Library\metadata\9a\9a2cfc855dc58bb4baef6eeae381017c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9a\9a2cfc855dc58bb4baef6eeae381017c.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\9a\9a2cfc855dc58bb4baef6eeae381017c.info
+    projectPath: Library\metadata\9a\9a2cfc855dc58bb4baef6eeae381017c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b0\b0b97921a95cfc342ac41452b2a50e53
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\b0\b0b97921a95cfc342ac41452b2a50e53
+    projectPath: Library\metadata\b0\b0b97921a95cfc342ac41452b2a50e53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b0\b0b97921a95cfc342ac41452b2a50e53.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\b0\b0b97921a95cfc342ac41452b2a50e53.info
+    projectPath: Library\metadata\b0\b0b97921a95cfc342ac41452b2a50e53.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b3\b358b2aaecc76ea49bb680db859c4ce8
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\b3\b358b2aaecc76ea49bb680db859c4ce8
+    projectPath: Library\metadata\b3\b358b2aaecc76ea49bb680db859c4ce8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b3\b358b2aaecc76ea49bb680db859c4ce8.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\b3\b358b2aaecc76ea49bb680db859c4ce8.info
+    projectPath: Library\metadata\b3\b358b2aaecc76ea49bb680db859c4ce8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\bf\bfc4ef62ef959a749b891a08de23d694
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\bf\bfc4ef62ef959a749b891a08de23d694
+    projectPath: Library\metadata\bf\bfc4ef62ef959a749b891a08de23d694
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\bf\bfc4ef62ef959a749b891a08de23d694.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\bf\bfc4ef62ef959a749b891a08de23d694.info
+    projectPath: Library\metadata\bf\bfc4ef62ef959a749b891a08de23d694.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ce\cef1c93eb411e0749a47ea5226f226b2
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\ce\cef1c93eb411e0749a47ea5226f226b2
+    projectPath: Library\metadata\ce\cef1c93eb411e0749a47ea5226f226b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ce\cef1c93eb411e0749a47ea5226f226b2.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\ce\cef1c93eb411e0749a47ea5226f226b2.info
+    projectPath: Library\metadata\ce\cef1c93eb411e0749a47ea5226f226b2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\daa917b2fc6c46e4ca15c06f94cd1ea7
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\da\daa917b2fc6c46e4ca15c06f94cd1ea7
+    projectPath: Library\metadata\da\daa917b2fc6c46e4ca15c06f94cd1ea7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\daa917b2fc6c46e4ca15c06f94cd1ea7.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\da\daa917b2fc6c46e4ca15c06f94cd1ea7.info
+    projectPath: Library\metadata\da\daa917b2fc6c46e4ca15c06f94cd1ea7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e4\e439f01a160e5a646b5701a196652a7e
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\e4\e439f01a160e5a646b5701a196652a7e
+    projectPath: Library\metadata\e4\e439f01a160e5a646b5701a196652a7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e4\e439f01a160e5a646b5701a196652a7e.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\e4\e439f01a160e5a646b5701a196652a7e.info
+    projectPath: Library\metadata\e4\e439f01a160e5a646b5701a196652a7e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ec\ec15fcd9669af6546a6450aa685be3dc
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\ec\ec15fcd9669af6546a6450aa685be3dc
+    projectPath: Library\metadata\ec\ec15fcd9669af6546a6450aa685be3dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ec\ec15fcd9669af6546a6450aa685be3dc.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\ec\ec15fcd9669af6546a6450aa685be3dc.info
+    projectPath: Library\metadata\ec\ec15fcd9669af6546a6450aa685be3dc.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ec\ec3c65fa5a0065641b2ec38ce177bdf6
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\ec\ec3c65fa5a0065641b2ec38ce177bdf6
+    projectPath: Library\metadata\ec\ec3c65fa5a0065641b2ec38ce177bdf6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ec\ec3c65fa5a0065641b2ec38ce177bdf6.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\ec\ec3c65fa5a0065641b2ec38ce177bdf6.info
+    projectPath: Library\metadata\ec\ec3c65fa5a0065641b2ec38ce177bdf6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f0\f0a3c0e1e63ee8841a9ed5af81278237
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\f0\f0a3c0e1e63ee8841a9ed5af81278237
+    projectPath: Library\metadata\f0\f0a3c0e1e63ee8841a9ed5af81278237
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f0\f0a3c0e1e63ee8841a9ed5af81278237.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\f0\f0a3c0e1e63ee8841a9ed5af81278237.info
+    projectPath: Library\metadata\f0\f0a3c0e1e63ee8841a9ed5af81278237.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fd\fd1d64d3ec486c04fbf6a0460447924a
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\fd\fd1d64d3ec486c04fbf6a0460447924a
+    projectPath: Library\metadata\fd\fd1d64d3ec486c04fbf6a0460447924a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fd\fd1d64d3ec486c04fbf6a0460447924a.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\fd\fd1d64d3ec486c04fbf6a0460447924a.info
+    projectPath: Library\metadata\fd\fd1d64d3ec486c04fbf6a0460447924a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ff\ffa7a289738199345b60dece16ceebf2
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\ff\ffa7a289738199345b60dece16ceebf2
+    projectPath: Library\metadata\ff\ffa7a289738199345b60dece16ceebf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ff\ffa7a289738199345b60dece16ceebf2.info
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\metadata\ff\ffa7a289738199345b60dece16ceebf2.info
+    projectPath: Library\metadata\ff\ffa7a289738199345b60dece16ceebf2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache.db
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\08a2737a3a95cbe4e351bbd39e2f8531.bin
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\0\08a2737a3a95cbe4e351bbd39e2f8531.bin
+    projectPath: Library\ShaderCache\0\08a2737a3a95cbe4e351bbd39e2f8531.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\29d9753f87d80f9e7b87f7d1605cc4f7.bin
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\2\29d9753f87d80f9e7b87f7d1605cc4f7.bin
+    projectPath: Library\ShaderCache\2\29d9753f87d80f9e7b87f7d1605cc4f7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7f5b1a0353f11edd731c365e94ae8a93.bin
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\7\7f5b1a0353f11edd731c365e94ae8a93.bin
+    projectPath: Library\ShaderCache\7\7f5b1a0353f11edd731c365e94ae8a93.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\96f463857e5bf56b2cdc91cb00c8949a.bin
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\9\96f463857e5bf56b2cdc91cb00c8949a.bin
+    projectPath: Library\ShaderCache\9\96f463857e5bf56b2cdc91cb00c8949a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ae50e6415db34ce8535ef3e6216fafd1.bin
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\a\ae50e6415db34ce8535ef3e6216fafd1.bin
+    projectPath: Library\ShaderCache\a\ae50e6415db34ce8535ef3e6216fafd1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b34e4dcfc33aba8834e47088174b034e.bin
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\b\b34e4dcfc33aba8834e47088174b034e.bin
+    projectPath: Library\ShaderCache\b\b34e4dcfc33aba8834e47088174b034e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c2cb90868fef9a7a4cbf7e6f91b0f94f.bin
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\c\c2cb90868fef9a7a4cbf7e6f91b0f94f.bin
+    projectPath: Library\ShaderCache\c\c2cb90868fef9a7a4cbf7e6f91b0f94f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f2ee274f58de92232fcd850c72e6df18.bin
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\ShaderCache\f\f2ee274f58de92232fcd850c72e6df18.bin
+    projectPath: Library\ShaderCache\f\f2ee274f58de92232fcd850c72e6df18.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Projeto_bimestral
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Projeto_bimestral
+    projectPath: Projeto_bimestral
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TrabalhoBimestral.sln
+    fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\TrabalhoBimestral.sln
+    projectPath: TrabalhoBimestral.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
