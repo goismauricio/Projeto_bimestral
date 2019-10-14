@@ -13,9 +13,575 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-10-08T23:21:58.624-03:00
-  initializedAtString: 2019-10-08T16:16:12.891-03:00
+  lastUpdatedAtString: 2019-10-14T18:39:40.608-03:00
+  initializedAtString: 2019-10-14T18:37:59.630-03:00
   log:
+  - commitID: d300a88163832317fe0be1770e1463e2f32f9691
+    mergeA: 
+    mergeB: 
+    authorName: goismauricio
+    authorEmail: mauricio.abc1@gmail.com
+    commitEmail: mauricio.abc1@gmail.com
+    commitName: goismauricio
+    summary: version3
+    description: quarto do rei
+    timeString: 2019-10-10T15:30:06.000-03:00
+    commitTimeString: 2019-10-10T15:30:06.000-03:00
+    changes:
+    - path: Assets\Bed.FBX
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed.FBX
+      projectPath: Assets\Bed.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed.FBX.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed.FBX.meta
+      projectPath: Assets\Bed.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed.mat
+      projectPath: Assets\Bed.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed.mat.meta
+      projectPath: Assets\Bed.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed.meta
+      projectPath: Assets\Bed.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed.FBX
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed.FBX
+      projectPath: Assets\Bed\Bed.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed.FBX.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed.FBX.meta
+      projectPath: Assets\Bed\Bed.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_Albedo.tga
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_Albedo.tga
+      projectPath: Assets\Bed\Bed_Albedo.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_Albedo.tga.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_Albedo.tga.meta
+      projectPath: Assets\Bed\Bed_Albedo.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_Albedo2.tga
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_Albedo2.tga
+      projectPath: Assets\Bed\Bed_Albedo2.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_Albedo2.tga.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_Albedo2.tga.meta
+      projectPath: Assets\Bed\Bed_Albedo2.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_MixMap.tga
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_MixMap.tga
+      projectPath: Assets\Bed\Bed_MixMap.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_MixMap.tga.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_MixMap.tga.meta
+      projectPath: Assets\Bed\Bed_MixMap.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_Normals.tga
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_Normals.tga
+      projectPath: Assets\Bed\Bed_Normals.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_Normals.tga.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_Normals.tga.meta
+      projectPath: Assets\Bed\Bed_Normals.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_Roughness.tga
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_Roughness.tga
+      projectPath: Assets\Bed\Bed_Roughness.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_Roughness.tga.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_Roughness.tga.meta
+      projectPath: Assets\Bed\Bed_Roughness.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_occlusion.tga
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_occlusion.tga
+      projectPath: Assets\Bed\Bed_occlusion.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Bed\Bed_occlusion.tga.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Bed\Bed_occlusion.tga.meta
+      projectPath: Assets\Bed\Bed_occlusion.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Bed-Bed.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials\Bed-Bed.mat
+      projectPath: Assets\Materials\Bed-Bed.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Bed-Bed.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials\Bed-Bed.mat.meta
+      projectPath: Assets\Materials\Bed-Bed.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Bed-rope.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials\Bed-rope.mat
+      projectPath: Assets\Materials\Bed-rope.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Bed-rope.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials\Bed-rope.mat.meta
+      projectPath: Assets\Materials\Bed-rope.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Bed.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials\Bed.mat
+      projectPath: Assets\Materials\Bed.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Bed.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials\Bed.mat.meta
+      projectPath: Assets\Materials\Bed.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\rope.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials\rope.mat
+      projectPath: Assets\Materials\rope.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\rope.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Materials\rope.mat.meta
+      projectPath: Assets\Materials\rope.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat
+      projectPath: Assets\Texturas\dungeon-tileset-extended\MaterialCorredor.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Texturas\dungeon-tileset-extended\Materials\wall-tex-3.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\Texturas\dungeon-tileset-extended\Materials\wall-tex-3.mat
+      projectPath: Assets\Texturas\dungeon-tileset-extended\Materials\wall-tex-3.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\table001.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001.meta
+      projectPath: Assets\table001.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources.meta
+      projectPath: Assets\table001\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model.meta
+      projectPath: Assets\table001\Resources\Model.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001.FBX
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001.FBX
+      projectPath: Assets\table001\Resources\Model\001.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001.FBX.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001.FBX.meta
+      projectPath: Assets\table001\Resources\Model\001.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_M_AlbedoTransparency.png
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_M_AlbedoTransparency.png
+      projectPath: Assets\table001\Resources\Model\001_M_AlbedoTransparency.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_M_AlbedoTransparency.png.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_M_AlbedoTransparency.png.meta
+      projectPath: Assets\table001\Resources\Model\001_M_AlbedoTransparency.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_M_MetallicSmoothness.png
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_M_MetallicSmoothness.png
+      projectPath: Assets\table001\Resources\Model\001_M_MetallicSmoothness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_M_MetallicSmoothness.png.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_M_MetallicSmoothness.png.meta
+      projectPath: Assets\table001\Resources\Model\001_M_MetallicSmoothness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_b_AlbedoTransparency.png
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_b_AlbedoTransparency.png
+      projectPath: Assets\table001\Resources\Model\001_b_AlbedoTransparency.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_b_AlbedoTransparency.png.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_b_AlbedoTransparency.png.meta
+      projectPath: Assets\table001\Resources\Model\001_b_AlbedoTransparency.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_b_MetallicSmoothness.png
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_b_MetallicSmoothness.png
+      projectPath: Assets\table001\Resources\Model\001_b_MetallicSmoothness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_b_MetallicSmoothness.png.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_b_MetallicSmoothness.png.meta
+      projectPath: Assets\table001\Resources\Model\001_b_MetallicSmoothness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_gf_AlbedoTransparency.png
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_gf_AlbedoTransparency.png
+      projectPath: Assets\table001\Resources\Model\001_gf_AlbedoTransparency.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_gf_AlbedoTransparency.png.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_gf_AlbedoTransparency.png.meta
+      projectPath: Assets\table001\Resources\Model\001_gf_AlbedoTransparency.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_gf_MetallicSmoothness.png
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_gf_MetallicSmoothness.png
+      projectPath: Assets\table001\Resources\Model\001_gf_MetallicSmoothness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_gf_MetallicSmoothness.png.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_gf_MetallicSmoothness.png.meta
+      projectPath: Assets\table001\Resources\Model\001_gf_MetallicSmoothness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_th_AlbedoTransparency.png
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_th_AlbedoTransparency.png
+      projectPath: Assets\table001\Resources\Model\001_th_AlbedoTransparency.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_th_AlbedoTransparency.png.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_th_AlbedoTransparency.png.meta
+      projectPath: Assets\table001\Resources\Model\001_th_AlbedoTransparency.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_th_MetallicSmoothness.png
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_th_MetallicSmoothness.png
+      projectPath: Assets\table001\Resources\Model\001_th_MetallicSmoothness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\001_th_MetallicSmoothness.png.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\001_th_MetallicSmoothness.png.meta
+      projectPath: Assets\table001\Resources\Model\001_th_MetallicSmoothness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials.meta
+      projectPath: Assets\table001\Resources\Model\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\08 - Defaultgfgf.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\08
+        - Defaultgfgf.mat
+      projectPath: Assets\table001\Resources\Model\Materials\08 - Defaultgfgf.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\08 - Defaultgfgf.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\08
+        - Defaultgfgf.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\08 - Defaultgfgf.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\1.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\1.mat
+      projectPath: Assets\table001\Resources\Model\Materials\1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\1.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\1.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\18 - Default.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\18
+        - Default.mat
+      projectPath: Assets\table001\Resources\Model\Materials\18 - Default.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\18 - Default.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\18
+        - Default.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\18 - Default.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\2.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\2.mat
+      projectPath: Assets\table001\Resources\Model\Materials\2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\2.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\2.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\3.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\3.mat
+      projectPath: Assets\table001\Resources\Model\Materials\3.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\3.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\3.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\3.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\4.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\4.mat
+      projectPath: Assets\table001\Resources\Model\Materials\4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\4.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\4.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\Floor.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\Floor.mat
+      projectPath: Assets\table001\Resources\Model\Materials\Floor.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\Floor.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\Floor.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\Floor.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 'Assets\table001\Resources\Model\Materials\Material #4196.mat'
+      fullPath: 'D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\Material
+        #4196.mat'
+      projectPath: 'Assets\table001\Resources\Model\Materials\Material #4196.mat'
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 'Assets\table001\Resources\Model\Materials\Material #4196.mat.meta'
+      fullPath: 'D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\Material
+        #4196.mat.meta'
+      projectPath: 'Assets\table001\Resources\Model\Materials\Material #4196.mat.meta'
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\New Material.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\New
+        Material.mat
+      projectPath: Assets\table001\Resources\Model\Materials\New Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\New Material.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\New
+        Material.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\New Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\gf.mat
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\gf.mat
+      projectPath: Assets\table001\Resources\Model\Materials\gf.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Model\Materials\gf.mat.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Model\Materials\gf.mat.meta
+      projectPath: Assets\table001\Resources\Model\Materials\gf.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets\\table001\\Resources\\Model\\Materials\\\u94F6.mat"
+      fullPath: "D:\\NaoApagar\\Desktop\\rv\\TrabalhoBimestral\\Assets\\table001\\Resources\\Model\\Materials\\\u94F6.mat"
+      projectPath: "Assets\\table001\\Resources\\Model\\Materials\\\u94F6.mat"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets\\table001\\Resources\\Model\\Materials\\\u94F6.mat.meta"
+      fullPath: "D:\\NaoApagar\\Desktop\\rv\\TrabalhoBimestral\\Assets\\table001\\Resources\\Model\\Materials\\\u94F6.mat.meta"
+      projectPath: "Assets\\table001\\Resources\\Model\\Materials\\\u94F6.mat.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Prefabs.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Prefabs.meta
+      projectPath: Assets\table001\Resources\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Prefabs\Table001.prefab
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Prefabs\Table001.prefab
+      projectPath: Assets\table001\Resources\Prefabs\Table001.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Prefabs\Table001.prefab.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Prefabs\Table001.prefab.meta
+      projectPath: Assets\table001\Resources\Prefabs\Table001.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Prefabs\Table002.prefab
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Prefabs\Table002.prefab
+      projectPath: Assets\table001\Resources\Prefabs\Table002.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Resources\Prefabs\Table002.prefab.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Resources\Prefabs\Table002.prefab.meta
+      projectPath: Assets\table001\Resources\Prefabs\Table002.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Scene.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Scene.meta
+      projectPath: Assets\table001\Scene.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Scene\Demo.unity
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Scene\Demo.unity
+      projectPath: Assets\table001\Scene\Demo.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\table001\Scene\Demo.unity.meta
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Assets\table001\Scene\Demo.unity.meta
+      projectPath: Assets\table001\Scene\Demo.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 51d45412d0579db7e256a0ffed3ce383516ee7ea
+    mergeA: 
+    mergeB: 
+    authorName: goismauricio
+    authorEmail: mauricio.abc1@gmail.com
+    commitEmail: mauricio.abc1@gmail.com
+    commitName: goismauricio
+    summary: 2.1
+    description: 
+    timeString: 2019-10-08T23:25:08.000-03:00
+    commitTimeString: 2019-10-08T23:25:08.000-03:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\NaoApagar\Desktop\rv\TrabalhoBimestral\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 242db2b6ba9db7ab6725d8e82385ec02a2e4c249
     mergeA: 
     mergeB: 
