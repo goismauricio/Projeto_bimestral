@@ -17,38 +17,48 @@ public class HistoryController : MonoBehaviour
         espacos = 0;
         historia = 0;
         textoHistoria.text = "Essa é a história de um Rei,\nUm rei que amava muito o seu povo...\nMas o que deveria ser algo bom, levou-lhe a sua ruina. "
-        + "\n\n\n(Clique ENTER para continuar)";
+        + "\n\n\n(Aperte ENTER para continuar)";
     }
 
     private void fire()
     {
-        var bullet = (GameObject) Instantiate(bulletPrefab, bulletSpawn.position, bulletSpawn.rotation);
+        var bullet = (GameObject)Instantiate(bulletPrefab, bulletSpawn.position, bulletSpawn.rotation);
         bullet.GetComponent<Rigidbody>().velocity = bullet.transform.forward * 10f;
-        
+
         Destroy(bullet, 0.1f);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Return))
+        if (Input.GetKeyDown(KeyCode.Return))
         {
             fire();
+            semiController();
         }
-        if (Input.GetKeyDown(KeyCode.Space))
+    }
+
+    private void semiController()
+    {
+        if (historia == 0)
         {
-            if (historia == 0)
-            {
-                comeco();
-            }
-            else if (historia == 1)
-            {
-                historia1();
-            }
-            else if (historia == 2)
-            {
-                historia2();
-            }
+            comeco();
+        }
+        if (historia == 1)
+        {
+            historia1();
+        }
+        else if (historia == 2)
+        {
+            historia2();
+        }
+        else if (historia == 3)
+        {
+            historia3();
+        }
+        else if (historia == 4)
+        {
+            historia4();
         }
     }
     public void ReiniciaFase()
@@ -79,7 +89,7 @@ public class HistoryController : MonoBehaviour
                 break;
             default:
                 textoHistoria.text = "";
-                espacos = 500;
+                espacos = 1000;
                 break;
         }
     }
@@ -87,6 +97,7 @@ public class HistoryController : MonoBehaviour
     // Rei
     private void historia1()
     {
+        textoHistoria.text = "Sim... De alguma forma reconheço este lugar...\n\nEssas roupas...";
         if (espacos >= 500)
             espacos = 0;
         espacos++;
@@ -196,7 +207,7 @@ public class HistoryController : MonoBehaviour
                 textoHistoria.text = "Extresse, ansiedade...";
                 break;
             case 14:
-                textoHistoria.text = "Uff... " + 
+                textoHistoria.text = "Uff... " +
                 "Como é não ter suas \"armas\"? Vá pegá-las, é o melhor!";
                 break;
             default:

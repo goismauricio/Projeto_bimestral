@@ -3841,9 +3841,9 @@ ParticleSystem:
       properties: 0
       emitProbability: 1
   LightsModule:
-    enabled: 0
-    ratio: 0
-    light: {fileID: 0}
+    enabled: 1
+    ratio: 1
+    light: {fileID: 3314027699022562715, guid: 37155c41ec99b8b4da77510b2121e178, type: 3}
     randomDistribution: 1
     color: 1
     range: 1
@@ -8673,9 +8673,9 @@ ParticleSystem:
       properties: 0
       emitProbability: 1
   LightsModule:
-    enabled: 0
-    ratio: 0
-    light: {fileID: 0}
+    enabled: 1
+    ratio: 1
+    light: {fileID: 3314027699022562715, guid: 37155c41ec99b8b4da77510b2121e178, type: 3}
     randomDistribution: 1
     color: 1
     range: 1
@@ -13601,9 +13601,9 @@ ParticleSystem:
       properties: 0
       emitProbability: 1
   LightsModule:
-    enabled: 0
-    ratio: 0
-    light: {fileID: 0}
+    enabled: 1
+    ratio: 1
+    light: {fileID: 3314027699022562715, guid: 37155c41ec99b8b4da77510b2121e178, type: 3}
     randomDistribution: 1
     color: 1
     range: 1
